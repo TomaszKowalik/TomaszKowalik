@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TomaszKowalik
-- 🌱 I’m currently learning Javascript
 - 📫 How to reach me tomasz.kowalik@oke.pl
 
 <!---
